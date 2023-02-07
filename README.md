@@ -1,0 +1,1 @@
+# course-quarkus-jpa-panache
