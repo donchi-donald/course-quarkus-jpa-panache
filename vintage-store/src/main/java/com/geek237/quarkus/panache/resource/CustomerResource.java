@@ -1,7 +1,8 @@
-package org.agoncal.quarkus.panache.resource;
+package com.geek237.quarkus.panache.resource;
 
-import org.agoncal.quarkus.jpa.Customer;
-import org.agoncal.quarkus.panache.repository.CustomerRepository;
+
+import com.geek237.quarkus.jpa.Customer;
+import com.geek237.quarkus.panache.repository.CustomerRepository;
 
 import javax.enterprise.context.ApplicationScoped;
 import javax.inject.Inject;

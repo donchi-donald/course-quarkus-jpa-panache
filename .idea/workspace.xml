@@ -5,15 +5,54 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f87aa4e7-0089-460a-9113-64bed724a4e7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_quarkus_quarkus_qute_2_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_quarkus_quarkus_resteasy_qute_2_16_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_quarkus_qute_qute_core_2_16_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_14_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_14_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_yaml_2_14_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_h2database_h2_2_1_214.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_quarkus_quarkus_jdbc_h2_2_16_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_quarkus_quarkus_smallrye_openapi_2_16_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_quarkus_quarkus_swagger_ui_2_16_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_smallrye_smallrye_open_api_core_3_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_microprofile_openapi_microprofile_openapi_api_2_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_locationtech_jts_jts_core_1_17_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_33.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer/src/test/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vintage-store/src/test/resources/META-INF/orm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vintage-store/src/test/resources/META-INF/resources/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vintage-store/src/test/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vintage-store/src/test/resources/import.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vintage-store/src/test/resources/templates/ArtistPage/artist.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vintage-store/src/test/resources/templates/ArtistPage/artists.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vintage-store/src/test/resources/templates/CustomerPage/customer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vintage-store/src/test/resources/templates/CustomerPage/customers.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vintage-store/src/test/resources/templates/ItemPage/book.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vintage-store/src/test/resources/templates/ItemPage/books.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vintage-store/src/test/resources/templates/ItemPage/cd.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vintage-store/src/test/resources/templates/ItemPage/cds.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vintage-store/src/test/resources/templates/PublisherPage/publisher.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vintage-store/src/test/resources/templates/PublisherPage/publishers.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vintage-store/src/test/resources/templates/PurchaseOrderPage/purchaseOrder.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vintage-store/src/test/resources/templates/PurchaseOrderPage/purchaseOrders.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vintage-store/src/test/resources/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/artist/src/test/java/com/geek237/quarkus/jpa/ArtistResourceIT.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artist/src/test/java/com/geek237/quarkus/jpa/ArtistResourceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/customer/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vintage-store/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/vintage-store/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vintage-store/src/test/java/com/geek237/quarkus/panache/VintageResourceIT.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vintage-store/src/test/java/com/geek237/quarkus/panache/VintageResourceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vintage-store/src/main/java/com/geek237/quarkus/panache/MyEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vintage-store/src/main/java/com/geek237/quarkus/panache/VintageResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vintage-store/src/main/java/com/geek237/quarkus/panache/model/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/vintage-store/src/main/java/com/geek237/quarkus/panache/model/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vintage-store/src/main/java/com/geek237/quarkus/panache/page/ArtistPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/vintage-store/src/main/java/com/geek237/quarkus/panache/page/ArtistPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vintage-store/src/main/java/com/geek237/quarkus/panache/resource/ArtistResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/vintage-store/src/main/java/com/geek237/quarkus/panache/resource/ArtistResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vintage-store/src/main/java/com/geek237/quarkus/panache/resource/CustomerResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/vintage-store/src/main/java/com/geek237/quarkus/panache/resource/CustomerResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vintage-store/src/main/java/com/geek237/quarkus/panache/resource/ItemResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/vintage-store/src/main/java/com/geek237/quarkus/panache/resource/ItemResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vintage-store/src/main/java/com/geek237/quarkus/panache/resource/PublisherResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/vintage-store/src/main/java/com/geek237/quarkus/panache/resource/PublisherResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vintage-store/src/main/java/com/geek237/quarkus/panache/resource/PurchaseOrderResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/vintage-store/src/main/java/com/geek237/quarkus/panache/resource/PurchaseOrderResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vintage-store/src/main/resources/META-INF/orm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/vintage-store/src/main/resources/META-INF/orm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vintage-store/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/vintage-store/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vintage-store/src/main/resources/import.sql" beforeDir="false" afterPath="$PROJECT_DIR$/vintage-store/src/main/resources/import.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,8 +79,8 @@
     </option>
     <option name="myId2Visible">
       <map>
-        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
-        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
         <entry key="com.haulmont.jpb.jpaStructure" value="true" />
       </map>
     </option>
@@ -70,7 +109,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/donald.donchi-fofack/Desktop/MeinProjekt/quarkus_learn2/artist/src/test",
+    "last_opened_file_path": "/Users/donald.donchi-fofack/Desktop/MeinProjekt/quarkus_learn2/vintage-store/src/test",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
@@ -80,6 +119,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/vintage-store/src/test" />
+      <recent name="$PROJECT_DIR$/customer/src/test" />
       <recent name="$PROJECT_DIR$/artist/src/test" />
     </key>
   </component>
@@ -150,6 +191,37 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="vintage-store2" type="QuarkusRunConfigurationType" factoryName="Quarkus">
+      <module name="vintage-store2" />
+      <QsMavenRunConfiguration>
+        <MavenSettings>
+          <option name="myGeneralSettings" />
+          <option name="myRunnerSettings" />
+          <option name="myRunnerParameters">
+            <MavenRunnerParameters>
+              <option name="profiles">
+                <set />
+              </option>
+              <option name="goals">
+                <list>
+                  <option value="quarkus:dev" />
+                </list>
+              </option>
+              <option name="pomFileName" value="pom.xml" />
+              <option name="profilesMap">
+                <map />
+              </option>
+              <option name="resolveToWorkspace" value="false" />
+              <option name="workingDirPath" value="$PROJECT_DIR$/vintage-store2" />
+            </MavenRunnerParameters>
+          </option>
+        </MavenSettings>
+        <targetMavenLocalRepo />
+      </QsMavenRunConfiguration>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.ArtistRepositoryTest.shouldCreateAndFindAnArtist" />
@@ -166,7 +238,7 @@
       <updated>1675784223083</updated>
       <workItem from="1675784225815" duration="1088000" />
       <workItem from="1675786743573" duration="2772000" />
-      <workItem from="1675790224181" duration="10960000" />
+      <workItem from="1675790224181" duration="18820000" />
     </task>
     <servers />
   </component>

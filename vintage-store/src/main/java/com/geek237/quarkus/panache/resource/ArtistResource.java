@@ -1,7 +1,7 @@
-package org.agoncal.quarkus.panache.resource;
+package com.geek237.quarkus.panache.resource;
 
-import org.agoncal.quarkus.jdbc.Artist;
-import org.agoncal.quarkus.panache.repository.ArtistRepository;
+import com.geek237.quarkus.jpa.Artist;
+import com.geek237.quarkus.panache.repository.ArtistRepository;
 
 import javax.enterprise.context.ApplicationScoped;
 import javax.inject.Inject;

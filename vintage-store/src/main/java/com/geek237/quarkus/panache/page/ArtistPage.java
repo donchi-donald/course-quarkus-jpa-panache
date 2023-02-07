@@ -1,10 +1,10 @@
 package com.geek237.quarkus.panache.page;
 
 import com.geek237.quarkus.jpa.Artist;
+import com.geek237.quarkus.panache.repository.ArtistRepository;
 import io.quarkus.panache.common.Sort;
 import io.quarkus.qute.CheckedTemplate;
 import io.quarkus.qute.TemplateInstance;
-import org.agoncal.quarkus.panache.repository.ArtistRepository;
 
 import javax.enterprise.context.ApplicationScoped;
 import javax.inject.Inject;

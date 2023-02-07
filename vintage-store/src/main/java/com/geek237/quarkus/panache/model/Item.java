@@ -34,8 +34,8 @@ public class Item extends PanacheEntity {
     public BigDecimal price;
 
     @ManyToOne(cascade = CascadeType.PERSIST)
-    @JoinColumn(name = "artist_fk")
-    public Artist artist;
+     @JoinColumn(name = "artist_fk")
+     public Artist artist;
 
     @Column(name = "created_date", nullable = false)
     public Instant createdDate = Instant.now();

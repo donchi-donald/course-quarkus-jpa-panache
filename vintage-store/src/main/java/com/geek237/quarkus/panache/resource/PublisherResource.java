@@ -1,7 +1,6 @@
-package org.agoncal.quarkus.panache.resource;
+package com.geek237.quarkus.panache.resource;
 
-
-import org.agoncal.quarkus.panache.model.Publisher;
+import com.geek237.quarkus.panache.model.Publisher;
 
 import javax.enterprise.context.ApplicationScoped;
 import javax.transaction.Transactional;
