@@ -5,68 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f87aa4e7-0089-460a-9113-64bed724a4e7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jpa-buddy.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artist/.dockerignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artist/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artist/.mvn/wrapper/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artist/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artist/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artist/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artist/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artist/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artist/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artist/src/main/docker/Dockerfile.jvm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artist/src/main/docker/Dockerfile.legacy-jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artist/src/main/docker/Dockerfile.native" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artist/src/main/docker/Dockerfile.native-micro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artist/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootrap-vintage-store.sh" beforeDir="false" afterPath="$PROJECT_DIR$/bootrap-vintage-store.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-artist.sh" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-artist.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-customer.sh" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-customer.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer/.dockerignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer/.mvn/wrapper/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer/src/main/docker/Dockerfile.jvm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer/src/main/docker/Dockerfile.legacy-jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer/src/main/docker/Dockerfile.native" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer/src/main/docker/Dockerfile.native-micro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer/src/main/java/org/agoncal/quarkus/jpa/MyEntity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer/src/main/resources/import.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vintage-store/.dockerignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vintage-store/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vintage-store/.mvn/wrapper/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vintage-store/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vintage-store/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vintage-store/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vintage-store/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vintage-store/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vintage-store/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vintage-store/src/main/docker/Dockerfile.jvm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vintage-store/src/main/docker/Dockerfile.legacy-jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vintage-store/src/main/docker/Dockerfile.native" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vintage-store/src/main/docker/Dockerfile.native-micro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vintage-store/src/main/java/org/agoncal/quarkus/panache/MyEntity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vintage-store/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vintage-store/src/main/resources/import.sql" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/artist/src/test/java/com/geek237/quarkus/jpa/ArtistRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artist/src/test/java/com/geek237/quarkus/jpa/ArtistRepositoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artist/src/test/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer/src/test/java/com/geek237/quarkus/jpa/CustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer/src/test/java/com/geek237/quarkus/jpa/CustomerRepositoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vintage-store/src/main/java/com/geek237/quarkus/panache/model/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vintage-store/src/main/java/com/geek237/quarkus/panache/model/CD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vintage-store/src/main/java/com/geek237/quarkus/panache/model/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vintage-store/src/main/java/com/geek237/quarkus/panache/model/Language.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vintage-store/src/main/java/com/geek237/quarkus/panache/model/OrderLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vintage-store/src/main/java/com/geek237/quarkus/panache/model/Publisher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vintage-store/src/main/java/com/geek237/quarkus/panache/model/PurchaseOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vintage-store/src/main/java/com/geek237/quarkus/panache/model/Track.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artist/src/main/resources/META-INF/resources/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer/src/main/resources/META-INF/resources/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vintage-store/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/vintage-store/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vintage-store/src/main/resources/META-INF/resources/index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -98,22 +66,30 @@
     </option>
   </component>
   <component name="ProjectId" id="2LPsn4uGHaXQIVcB6hf0GaqEbov" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/donald.donchi-fofack/Desktop/MeinProjekt/quarkus_learn2&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/donald.donchi-fofack/Desktop/MeinProjekt/quarkus_learn2/artist/src/test",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/artist/src/test" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="configurationTypes">
       <set>
@@ -121,7 +97,23 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Quarkus.customer">
+  <component name="RunManager" selected="JUnit.ArtistRepositoryTest.shouldCreateAndFindAnArtist">
+    <configuration name="ArtistRepositoryTest.shouldCreateAndFindAnArtist" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="artist" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.geek237.quarkus.jpa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.geek237.quarkus.jpa" />
+      <option name="MAIN_CLASS_NAME" value="com.geek237.quarkus.jpa.ArtistRepositoryTest" />
+      <option name="METHOD_NAME" value="shouldCreateAndFindAnArtist" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="artist" type="QuarkusRunConfigurationType" factoryName="Quarkus">
       <module name="artist" />
       <QsMavenRunConfiguration>
@@ -165,6 +157,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ArtistRepositoryTest.shouldCreateAndFindAnArtist" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -176,7 +173,7 @@
       <updated>1675784223083</updated>
       <workItem from="1675784225815" duration="1088000" />
       <workItem from="1675786743573" duration="2772000" />
-      <workItem from="1675790224181" duration="304000" />
+      <workItem from="1675790224181" duration="7502000" />
     </task>
     <servers />
   </component>
