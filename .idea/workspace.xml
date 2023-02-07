@@ -5,24 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f87aa4e7-0089-460a-9113-64bed724a4e7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/artist/src/test/java/com/geek237/quarkus/jpa/ArtistRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/artist/src/test/java/com/geek237/quarkus/jpa/ArtistRepositoryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/artist/src/test/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customer/src/test/java/com/geek237/quarkus/jpa/CustomerRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customer/src/test/java/com/geek237/quarkus/jpa/CustomerRepositoryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vintage-store/src/main/java/com/geek237/quarkus/panache/model/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vintage-store/src/main/java/com/geek237/quarkus/panache/model/CD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vintage-store/src/main/java/com/geek237/quarkus/panache/model/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vintage-store/src/main/java/com/geek237/quarkus/panache/model/Language.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vintage-store/src/main/java/com/geek237/quarkus/panache/model/OrderLine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vintage-store/src/main/java/com/geek237/quarkus/panache/model/Publisher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vintage-store/src/main/java/com/geek237/quarkus/panache/model/PurchaseOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vintage-store/src/main/java/com/geek237/quarkus/panache/model/Track.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_quarkus_quarkus_qute_2_16_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_quarkus_quarkus_resteasy_qute_2_16_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_quarkus_qute_qute_core_2_16_1_Final.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/artist/src/main/resources/META-INF/resources/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer/src/main/resources/META-INF/resources/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artist/src/test/java/com/geek237/quarkus/jpa/ArtistResourceIT.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artist/src/test/java/com/geek237/quarkus/jpa/ArtistResourceTest.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/vintage-store/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/vintage-store/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vintage-store/src/main/resources/META-INF/resources/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vintage-store/src/test/java/com/geek237/quarkus/panache/VintageResourceIT.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vintage-store/src/test/java/com/geek237/quarkus/panache/VintageResourceTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,12 +68,14 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "/Users/donald.donchi-fofack/Desktop/MeinProjekt/quarkus_learn2/artist/src/test",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -173,7 +166,7 @@
       <updated>1675784223083</updated>
       <workItem from="1675784225815" duration="1088000" />
       <workItem from="1675786743573" duration="2772000" />
-      <workItem from="1675790224181" duration="7502000" />
+      <workItem from="1675790224181" duration="10960000" />
     </task>
     <servers />
   </component>
