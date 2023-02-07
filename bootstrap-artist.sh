@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 mvn -U io.quarkus:quarkus-maven-plugin:create \
-        -DprojectGroupId=org.agoncal.course.quarkus.orm \
+        -DprojectGroupId=com.geek237.quarkus \
         -DprojectArtifactId=artist \
-        -DpackageName="org.agoncal.quarkus.jdbc" \
-        -Dextensions="jdbc-mysql, quarkus-agroal"
+        -DclassName="com.geek237.quarkus.jdbc.ArtistResource" \
+        -Dpath="/api/artist" \
+        -Dextensions="jdbc-mysql, quarkus-agroal, resteasy-jsonb"

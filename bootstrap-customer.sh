@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 mvn -U io.quarkus:quarkus-maven-plugin:create \
-        -DprojectGroupId=org.agoncal.course.quarkus.orm \
+        -DprojectGroupId=com.geek237.quarkus \
         -DprojectArtifactId=customer \
-        -DpackageName="org.agoncal.quarkus.jpa" \
-        -Dextensions="jdbc-mariadb, hibernate-orm"
+        -DclassName="com.geek237.quarkus.jdbc.CustomerResource" \
+        -Dpath="/api/customer" \
+        -Dextensions="jdbc-mariadb, hibernate-orm, resteasy-jsonb"

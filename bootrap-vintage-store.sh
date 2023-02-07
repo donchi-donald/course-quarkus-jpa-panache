@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 mvn -U io.quarkus:quarkus-maven-plugin:create \
-        -DprojectGroupId=org.agoncal.course.quarkus.orm \
+        -DprojectGroupId=com.geek237.quarkus \
         -DprojectArtifactId=vintage-store \
-        -DpackageName="org.agoncal.quarkus.panache" \
-        -Dextensions="jdbc-postgresql, hibernate-orm-panache"
+        -DclassName="com.geek237.quarkus.panache.VintageResource" \
+        -Dpath="/api/vintage" \
+        -Dextensions="jdbc-postgresql, hibernate-orm-panache, resteasy-jsonb"
