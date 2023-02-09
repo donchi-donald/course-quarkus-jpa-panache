@@ -8,7 +8,6 @@
         <outputRelativeToContentRoot value="true" />
         <module name="artist" />
         <module name="vintage-store" />
-        <module name="vintage-store2" />
         <module name="customer" />
       </profile>
     </annotationProcessing>

@@ -6,7 +6,6 @@
       <module fileurl="file://$PROJECT_DIR$/customer/customer.iml" filepath="$PROJECT_DIR$/customer/customer.iml" />
       <module fileurl="file://$PROJECT_DIR$/parent.iml" filepath="$PROJECT_DIR$/parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/vintage-store/vintage-store.iml" filepath="$PROJECT_DIR$/vintage-store/vintage-store.iml" />
-      <module fileurl="file://$PROJECT_DIR$/vintage-store2/vintage-store2.iml" filepath="$PROJECT_DIR$/vintage-store2/vintage-store2.iml" />
     </modules>
   </component>
 </project>
